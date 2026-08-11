@@ -25,19 +25,53 @@ I build production-grade AI systems end to end — **from the math up**:
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**AI / ML**
+**ML / Deep Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E.svg?style=for-the-badge&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B.svg?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E.svg?style=for-the-badge&logoColor=black)
+![Optuna](https://img.shields.io/badge/Optuna-1E5CB3.svg?style=for-the-badge&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?style=for-the-badge&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Infrastructure & Cloud**
+**Time Series**
+
+![Nixtla](https://img.shields.io/badge/Nixtla-0E0E10.svg?style=for-the-badge&logoColor=white)
+![Darts](https://img.shields.io/badge/Darts-2E2A72.svg?style=for-the-badge&logoColor=white)
+
+**LLM & Agents**
+
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E.svg?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B.svg?style=for-the-badge&logoColor=white)
+
+**MLOps & Platforms**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+![ClearML](https://img.shields.io/badge/ClearML-09437E.svg?style=for-the-badge&logo=clearml&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC.svg?style=for-the-badge&logo=dataiku&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Data Engineering**
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-FC6E6B.svg?style=for-the-badge&logo=dask&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01.svg?style=for-the-badge&logo=clickhouse&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logoColor=white)
+
+**Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -48,18 +82,17 @@ I build production-grade AI systems end to end — **from the math up**:
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01.svg?style=for-the-badge&logo=clickhouse&logoColor=black)
+![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
 
 ---
 
 ## 🚀 Cool Projects
 
 ### [chunckerflow](https://github.com/guybass/chunckerflow) — RAG chunking, measured not guessed
-Async-first text-chunking framework for RAG: **6+ chunking strategies** (semantic, late chunking, recursive…), **4 embedding providers** (OpenAI, HuggingFace, Cohere, Voyage), and **12+ evaluation metrics** (NDCG@k, MRR, RAGAS-style faithfulness) so you pick your chunking strategy on evidence. **📦 Published on PyPI.**
+Async-first text-chunking framework for RAG: **6+ chunking strategies** (semantic, late chunking, recursive…), **4 embedding providers** (OpenAI, HuggingFace, Cohere, Voyage), and **12+ evaluation metrics** (NDCG@k, MRR, RAGAS-style faithfulness) so you pick your chunking strategy on evidence. **📦 1,400+ downloads on PyPI.**
 
 ### [llamonitor](https://github.com/guybass/LLMOps_monitoring_async-) — LLM observability without the lock-in
-Async-first monitoring for LLM apps (a lightweight Langfuse/LangSmith alternative): hierarchical tracing, **cost tracking for 18+ models**, ML-based anomaly detection, and **multi-agent intelligence** — context-drift detection and handoff-quality scoring. Pluggable storage: Parquet, PostgreSQL, ClickHouse, Prometheus.
+Async-first monitoring for LLM apps (a lightweight Langfuse/LangSmith alternative): hierarchical tracing, **cost tracking for 18+ models**, ML-based anomaly detection, and **multi-agent intelligence** — context-drift detection and handoff-quality scoring. Pluggable storage: Parquet, PostgreSQL, ClickHouse, Prometheus. **📦 3,100+ downloads on PyPI.**
 
 ### [whatsapp-claude-code](https://github.com/guybass/whatsapp-claude-code) — your codebase, from your pocket
 Drive Claude Code from WhatsApp: multi-project groups, persistent sessions per project, security-scoped to your own number. **Zero-install: `npx whatsapp-claude-code`.**
