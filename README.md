@@ -2,15 +2,15 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=guybass&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" width="380"/>
 
-**AI Engineer & Consultant** · Tel Aviv 🇮🇱
-**Co-Founder @ ClouDeus** — AI-powered autonomous DevOps
+**Independent LLM Researcher & AI Engineer** · Tel Aviv 🇮🇱<br>
+Researching **LLM post-training, representation geometry, reasoning, and agentic systems**
 
-I build production-grade AI systems end to end — **from the math up**:
+I study and build language models end to end — from mathematical foundations and controlled experiments to reproducible evaluation and production:
 
-- 🤖 **Agentic systems** — multi-agent orchestration, ReAct agents, MCP servers, agent evaluation
-- 📚 **RAG at production scale** — chunking strategy, vector stores, cross-index retrieval-augmented reasoning
-- 🧠 **LLM post-training** — SFT / DPO / RLHF with LoRA & QLoRA on 10B+ parameter models
-- ☁️ **AI infrastructure** — AWS / GCP / Azure, Kubernetes + GitOps, Terraform, LLM observability
+- 🔬 **LLM post-training** — SFT, DPO & RLHF; LoRA/QLoRA experiments on 10B+ parameter models
+- 🧠 **Representations & reasoning** — Fisher information geometry of latent spaces, representation composition, curvature, and transport-stability bounds
+- 🤖 **Agentic LLM systems** — multi-agent orchestration, ReAct agents, MCP servers, and agent/handoff evaluation
+- 📚 **Retrieval & evaluation** — production RAG, chunking research, retrieval metrics, and faithfulness evaluation
 
 🎓 BSc Mathematics & Physics (Hebrew University) · Graduate coursework in Applied Mathematics (TAU)
 💼 4+ years shipping LLM/agent systems for enterprises — Fireblocks, Elbit, finance & banking clients
